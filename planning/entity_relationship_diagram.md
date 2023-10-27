@@ -2,16 +2,18 @@
 
 Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
 
-## Create the List of Tables
+## Tables and Relationships
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+ - **Users**
+    - Each user can have zero, one, or many tasks. Each task is owned by one user.
+ - **Tasks**
+    - Each task can have zero, one, or many categories. 
+    - Each task can have zero, one, or many subtasks. 
+ - **Categories**
+    - Each category is related to one or many tasks.
+ - **Subtasks**
+    - Each subtask is the subtask of one task.
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
-
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+<img src="../assets/er-diagram.png" width="500" height="280" alt="Entity-Relationship diagram of final project">
