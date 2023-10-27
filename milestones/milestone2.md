@@ -16,7 +16,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-Agreed on design decisions quickly and were able to split the work efficiently.
+Agreed on design decisions quickly and were able to split the work efficiently. We also had a short and concise meeting.
 
 ### 2. What were some challenges your group faced in this unit?
 
