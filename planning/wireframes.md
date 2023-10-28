@@ -4,18 +4,30 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- Login pages ⭐
+- Sign in page ⭐
+- Create Task page ⭐
+- Tasks page ⭐
+- Calender page ⭐
+- Settings  
 
-## Wireframe 1: [page title]
+## Wireframe 1: Login Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img src="../assets/login.png" width="500" height="auto" alt="Login page wireframe">
 
-## Wireframe 2: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Sign in Page
 
-## Wireframe 3: [page title]
+<img src="../assets/signup.png" width="500" height="auto" alt="Sign up page wireframe">
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+## Wireframe 3: Create Task Page
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+<img src="../assets/create-task.png" width="500" height="auto" alt="Create task page wireframe">
+
+## Wireframe 4: Tasks page
+
+<img src="../assets/task.png" width="500" height="auto" alt="All task page wireframe">
+
+## Wireframe 5: Calendar page
+
+<img src="../assets/calendar.png" width="500" height="auto" alt="Calendar page wireframe">
